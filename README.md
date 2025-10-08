@@ -17,13 +17,12 @@ Unfortunately, it does not have the most published contents it is fourth on the 
 
 Recommendation
 
-Increase the number of published contents for the Health and Fitness categories.
+Increase the number of published contents for the Health and Music categories.
 
-Publish less articles for categories that receive small numbers of likes:Travel, Food, Family, Fashion.
+Publish less articles for Travel, Food, and Fitness.
 
-Conduct a survey from a sample of the online users to learn about the categories they like and ways to improve the categories that received a small number of likes.
+Conduct a survey from a sample of online users to learn more about the categories they like and ways to improve the categories that are less engaging.
 
-More analyzing is recommended to be performed on the data. Models can be built to better understand the relationship between
-the different categories and likes.
+
 
 
