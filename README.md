@@ -23,8 +23,11 @@ Travel have the most published contents.
 Conclusion 
 
 -Most popular categories are Health and Music.
+
 -Least engaging category is Travel.
+
 -Health category does not have the most published articles, it is fourth on the␣list.
+
 -Travel which is the least engaging publishes the most contents.
 
 
